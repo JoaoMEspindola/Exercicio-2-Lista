@@ -10,7 +10,7 @@
 ### **Solução**
 ---
 <p align="justify">
-1. Para a criação da lista foi utilizado métodos previamentes disponibilizados no repósitório [GitHub](https://github.com/mpiress/linear_list), do professor Michel Pires. No armazenamento do conjunto de nomes, foi necessário a leitura de um arquivo de formato <em>'.txt'</em> chamado <em>'nomes'</em>, neste arquivo deve-se escrever um nome por linha como mostra o exemplo a seguir:
+1. Para a criação da lista foi utilizado métodos previamentes disponibilizados no repósitório <a href="https://github.com/mpiress/linear_list">GitHub/mpiress</a>, do professor Michel Pires. No armazenamento do conjunto de nomes, foi necessário a leitura de um arquivo de formato <em>'.txt'</em> chamado <em>'nomes'</em>, neste arquivo deve-se escrever um nome por linha como mostra o exemplo a seguir:
 </p>
 
 Pedro<br>
